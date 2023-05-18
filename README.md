@@ -14,7 +14,7 @@
 
 <a href="http://localhost/cursophp/php/desafios/d005/" target="_blank" >Abrir desafio 5</a>
 
-<a href="http://localhost/cursophp/desafios/d006/))" target="_blank" >Abrir desafio 6 </a>
+<a href="http://localhost/cursophp/desafios/d006/" target="_blank" >Abrir desafio 6 </a>
 
 
 
