@@ -1,7 +1,5 @@
 # php
 # Curso em video 
- 
-
 
 
 <a href="http://localhost/cursophp/php/desafios/d001/" target="_blank" >Abrir desafio 1 </a>
@@ -21,6 +19,8 @@
 <a href="http://localhost/cursophp/desafios/d008/" target="_blank" >Abrir desafio 8 </a>
 
 <a href="http://localhost/cursophp/desafios/d009/" target="_blank" >Abrir desafio 9 </a>
+
+<a href="http://localhost/cursophp/desafios/d010/" target="_blank" >Abrir desafio 10 </a>
 
 
 
